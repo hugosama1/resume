@@ -1,0 +1,205 @@
+{
+  "basics": {
+    "name": "HUGO ENRIQUE GOMEZ PEREZ",
+    "label": "Software Architect",
+    "picture": "resume-photo.jpg",
+    "email": "hugosama1@gmail.com",
+    "phone": "(667) 194-82-17",
+    "website": "http://hugosama.com",
+    "summary": "MCS on artificial intelligence applied to education And Computer Science Engineer. Experienced on fullstack development for more than 6 years, building solutions for the goverment, national and international companies. He has earned a lot of knowledge by making architectural decisions on components that affected more than 100k users and by selecing the right coding styles, frameworks and development process for the whole programming department (over 400 developers).",
+    "location": {
+      "address": "2785 Tarahumaras ST",
+      "postalCode": "80160",
+      "city": "Culiacan",
+      "countryCode": "MX",
+      "region": "Sinaloa"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "hugosama",
+        "url": "https://twitter.com/hugosama"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Hugo Enrique Gomez Perez",
+        "url": "https://mx.linkedin.com/in/hugo-enrique-gómez-pérez-a29b7737"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "PC HOME S.A. de C.V.",
+      "position": "Consultant",
+      "website": "http://www.pch.mx/",
+      "startDate": "2011-08-01",
+      "endDate": "2012-08-01",
+      "summary": "IT Infraestructure, virtualization and Security consultant in products from VMWARE, CITRIX AND SYMANTEC.",
+      "highlights": [
+        "Technical presentations to IT managers of the most important enterprises in culiacan",
+        "Demo and production installation of solutions, including Vmware VSphere, Symantec Endpoint, Citrix Server",
+        "Technical problems resolution to clients"
+      ]
+    },
+    {
+      "company": "INFORMATICA ELECTORAL S.A. de C.V.",
+      "position": "Web Developer",
+      "website": "http://www.informaticaelectoral.com/",
+      "startDate": "2012-08-01",
+      "endDate": "2013-07-13",
+      "summary": "",
+      "highlights": [
+        "Managed to deliver on time the 2013 Sinaloa Elections System",
+        "Created an algorithm for the polling stations required for the entire Sinaloa State, based on geographical data",
+        "Maintenance leader, in charge of canalizing the changes to the appropriate programmer",
+        "Query Optimizations across the system to fulfill the quality standars"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Culiacan",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2007-08-01",
+      "endDate": "2011-12-15",
+      "GPA": "91/100"
+    },
+    {
+      "institution": "Instituto Tecnologico de Culiacan",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2013-08-01",
+      "endDate": "2015-12-15",
+      "GPA": "95/100"
+    },
+    {
+      "institution": "University of Manchester, England",
+      "area": "Mixed",
+      "studyType": "Research School",
+      "startDate": "2015-05-01",
+      "endDate": "2015-06-19"
+    }
+  ],
+  "publications": [
+    {
+      "name": "An Intelligent, Affective and Configurable Tutor",
+      "publisher": "IPN",
+      "releaseDate": "2014",
+      "website": "http://www.rcs.cic.ipn.mx/2014_87/",
+      "summary": "The design and implementation of an Intelligent Tutoring System (ITS) capable of being configured by different experts"
+    },
+    {
+      "name": "An Inteligent and affective learning enviroment for compilers",
+      "publisher": "IPN",
+      "releaseDate": "2015",
+      "website": "http://www.rcs.cic.ipn.mx/2015_92/",
+      "summary": "The design and implementation of an Intelligent Learning Enviroment (ILE) capable of recognizing a student technical profile and emotions, while it teaches compilers"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "JQuery",
+        "Reactjs",
+        "Bootstrap",
+        "Sencha Touch",
+        "Nodejs",
+        "ES6",
+        "WebPack"
+      ]
+    },
+    {
+      "name": "Java developer",
+      "level": "Master",
+      "keywords": [
+        "Java 8",
+        "Jersey",
+        "Apache Tomcat",
+        "Spring"
+      ]
+    },
+    {
+      "name": "Android developer",
+      "level": "Expert",
+      "keywords": [
+        "Android",
+        "MVP Architecture",
+        "Android Studio",
+        "Retrofit",
+        "GreenDao",
+        "EventBus",
+        "Dagger",
+        "React Native"
+      ]
+    },
+    {
+      "name": "IOS developer",
+      "level": "Beginner",
+      "keywords": [
+        "IOS",
+        "Swift",
+        "Big Nerd Ranch Alumni",
+        "React Native"
+      ]
+    },
+    {
+      "name": "PHP developer",
+      "level": "Expert",
+      "keywords": [
+        "PHP",
+        "Laravel",
+        "Lumen",
+        "Phalcon",
+        "CodeIgniter"
+      ]
+    },
+    {
+      "name": "C# developer",
+      "level": "Intermediate",
+      "keywords": [
+        "C#",
+        "NET"
+      ]
+    },
+    {
+      "name": "C++ developer",
+      "level": "Intermediate",
+      "keywords": [
+        "C++",
+        "NET"
+      ]
+    },
+    {
+      "name": "Python developer",
+      "level": "Beginner",
+      "keywords": [
+        "Python",
+        "DJango"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Excellent"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Japanesse",
+      "fluency": "Basic"
+    }
+  ]
+}
