@@ -29,16 +29,18 @@
   },
   "work": [
     {
-      "company": "PC HOME S.A. de C.V.",
-      "position": "Consultant",
-      "website": "http://www.pch.mx/",
-      "startDate": "2011-08-01",
-      "endDate": "2012-08-01",
-      "summary": "IT Infraestructure, virtualization and Security consultant in products from VMWARE, CITRIX AND SYMANTEC.",
+      "company": "COPPEL S.A. de C.V.",
+      "position": "Software Architect",
+      "website": "http://www.coppel.com",
+      "startDate": "2014-02-01",
+      "summary": "I am in charge of setting the programming standars in the Java language, Android platform and Security guidelines in the development process. My responsabilities include selecting the right technical tools for developers, best code organization, style, frameworks and libraries. I am also in charge of defining the selection, clasification and promotion of the programmers in the entire company (over 400 developers)",
       "highlights": [
-        "Technical presentations to IT managers of the most important enterprises in culiacan",
-        "Demo and production installation of solutions, including Vmware VSphere, Symantec Endpoint, Citrix Server",
-        "Technical problems resolution to clients"
+        "Created an Autorization architecture that removed the need of recompiling components on permission changes, reducing the number of incident reports by 30%",
+        "Introduced TDD and database mocking, reducing a system configuration time from 3 days to 5 minutes",
+        "Developed a C++ Database Connection API based on OTL template framework, this completly removed the mantenibility changes when a table field changed, as the types where dinamically generated",
+        "Created a component to replace Java Applets that allowed the Web to use Biometric Sensor Autentication, this allowed over 500 systems to get out of the compatibility problem in browsers and simplified the process",
+        "Settled the java and Android Coding Styles, libraries and architecture",
+        "Taught the Java and Android courses in the company, influencing over 100 employees"
       ]
     },
     {
@@ -52,34 +54,38 @@
         "Managed to deliver on time the 2013 Sinaloa Elections System",
         "Created an algorithm for the polling stations required for the entire Sinaloa State, based on geographical data",
         "Maintenance leader, in charge of canalizing the changes to the appropriate programmer",
-        "Query Optimizations across the system to fulfill the quality standars, average query time reduced from 5 min to < 30 ms"
+        "Query Optimizations across the system to fulfill the quality standars, average query time reduced from 5 min to < 30 ms",
+        "Successful implementation of a phonegap project, deploying on both IOS and Android"
       ]
     },
     {
-      "company": "COPPEL S.A. de C.V.",
-      "position": "Software Architect",
-      "website": "http://www.coppel.com",
-      "startDate": "2014-02-01",
-      "summary": "I am in charge of setting the programming standars in the Java language, Android platform and Security guidelines in the development process. My responsabilities include selecting the right technical tools for developers, best code organization, style, frameworks and libraries. I am also in charge of defining the selection, clasification and promotion of the programmers in the entire company (over 400 developers)",
+      "company": "PC HOME S.A. de C.V.",
+      "position": "Consultant",
+      "website": "http://www.pch.mx/",
+      "startDate": "2011-08-01",
+      "endDate": "2012-08-01",
+      "summary": "IT Infraestructure, virtualization and Security consultant in products from VMWARE, CITRIX AND SYMANTEC.",
       "highlights": [
-        "Created an Autorization architecture that removed the need of recompiling components on permission changes, reducing the number of incident reports by 30%",
-        "Introduced TDD and database mocking, reducing a system configuration time from 3 days to 5 minutes",
-        "Developed a C++ Database Connection API based on OTL template framework, this completly removed the mantenibility changes when a table field changed, as the types where dinamically generated",
-        "Created a component to replace Java Applets that allowed the Web to use Biometric Sensor Autentication, this allowed over 500 systems to get out of the compatibility problem in browsers and simplified the process",
-        "Settled the java and Android Coding Styles, libraries and architecture",
-        "Taught the Java and Android courses in the company, influencing over 100 employees",
-        ""
+        "Technical presentations to IT managers of the most important enterprises in culiacan",
+        "Demo and production installation of solutions, including Vmware VSphere, Symantec Endpoint, Citrix Server",
+        "Technical problems resolution to clients"
       ]
     }
   ],
   "education": [
     {
-      "institution": "Instituto Tecnologico de Culiacan",
+      "institution": "Big Nerd Ranch",
       "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2007-08-01",
-      "endDate": "2011-12-15",
-      "GPA": "91/100"
+      "studyType": "IOS development with swift",
+      "startDate": "2015-10-06",
+      "endDate": "2015-10-14"
+    },
+    {
+      "institution": "University of Manchester, England",
+      "area": "Mixed",
+      "studyType": "Research School",
+      "startDate": "2015-05-01",
+      "endDate": "2015-06-19"
     },
     {
       "institution": "Instituto Tecnologico de Culiacan",
@@ -90,11 +96,12 @@
       "GPA": "95/100"
     },
     {
-      "institution": "University of Manchester, England",
-      "area": "Mixed",
-      "studyType": "Research School",
-      "startDate": "2015-05-01",
-      "endDate": "2015-06-19"
+      "institution": "Instituto Tecnologico de Culiacan",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2007-08-01",
+      "endDate": "2011-12-15",
+      "GPA": "91/100"
     }
   ],
   "publications": [
@@ -145,6 +152,7 @@
       "level": "Expert",
       "keywords": [
         "Android",
+        "Phonegap",
         "MVP Architecture",
         "Android Studio",
         "Retrofit",
