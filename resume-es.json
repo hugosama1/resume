@@ -1,0 +1,229 @@
+{
+  "basics": {
+    "name": "HUGO ENRIQUE GOMEZ PEREZ",
+    "label": "Arquitecto de Software",
+    "picture": "resume-photo.jpg",
+    "email": "hugosama1@gmail.com",
+    "phone": "(667) 194-82-17",
+    "website": "http://hugosama.com",
+    "summary": "MCC en inteligencia artificial aplicada a la educación e Ingeniero en Sistemas Computacionales. Experimentado en desarrollos FullStack por mas de 6 años, construyendo soluciones para el gobierno, compañias nacionales e internacionales. Ha adquirido mucho conocimiento al tomar decisiones arquitectonicas en componentes que afectan a mas de 100k usuarios y seleccionando los estilos de codificación adecuados, frameworks y procesos de desarrollo para el departamento completo de programación (mas de 400 desarrolladores).",
+    "location": {
+      "address": "Calle Tarahumaras 2785 Col. Industrial el palmito",
+      "postalCode": "80160",
+      "city": "Culiacan",
+      "countryCode": "MX",
+      "region": "Sinaloa"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "hugosama",
+        "url": "https://twitter.com/hugosama"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Hugo Enrique Gomez Perez",
+        "url": "https://mx.linkedin.com/in/hugo-enrique-gómez-pérez-a29b7737"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "COPPEL S.A. de C.V.",
+      "position": "Arquitecto de Software",
+      "website": "http://www.coppel.com",
+      "startDate": "2014-02-01",
+      "summary": "Me encuentro encargado de establecer los estándares de programación en el lenguaje Java, la plataforma Android y las politicas de seguridad en el proceso de desarrollo. Mis responsabilidades incluyen seleccionar las herramientas adecuadas para los desarrolladores, la organización del codigo, estilos, frameworks y librerías. También me encuentro encargado de definir la selección, clasificación y promoción de los programadores en toda la empresa (mas de 400).",
+      "highlights": [
+        "Creación de una arquitectura de autorización que removia la necesidad de recompilación de los componentes al cambiar los permisos, reduciendo el numero de incidentes en un 30%",
+        "Introducción a TDD y mock de base de datos, reduciendo el tiempo de configuración del sistema de 3 dias a 5 minutos",
+        "Desarrollo de un API de conexión a base de datos basada en OTL framework, esto removió completamente el tiempo de mantenimiento cuando había cambios en los tipos de datos de las tablas, ya que los tipos se generaban dinamicamente",
+        "Creación de un componente para reemplazar el uso de Applets de java, que permitió el uso de sensores de autenticación biométrica por medio de la web, esto ayudó a mas de 100 sistemas a salir del problema de compatibilidad en los navegadores y simplificó el proceso",
+        "Establecimiento de arquitectura, estilos de codificación y librerías para Java y Android",
+        "Impartición del curso de Java y Android e la compañía, influenciando a mas de 100 empleados"
+      ]
+    },
+    {
+      "company": "INFORMATICA ELECTORAL S.A. de C.V.",
+      "position": "Desarrollador Web",
+      "website": "http://www.informaticaelectoral.com/",
+      "startDate": "2012-08-01",
+      "endDate": "2013-07-13",
+      "summary": "",
+      "highlights": [
+        "Instalación a tiempo del sistema de elecciones 2013 para Sinaloa",
+        "Creación de un algoritmo para el cálculo de casillas requeridas, basado en población",
+        "Lider de mantenimiento, encargado de canalizar los cambios al programador adecuado",
+        "Optimización de consultas alrededor del sistema para cumplir con los estándares de calidad, se redujo un promedio de consulta de 5 min a menos de 30 ms",
+        "Implementación de un proyecto en phonegap, haciendo despliegue en android y IOS"
+      ]
+    },
+    {
+      "company": "PC HOME S.A. de C.V.",
+      "position": "Consultor",
+      "website": "http://www.pch.mx/",
+      "startDate": "2011-08-01",
+      "endDate": "2012-08-01",
+      "summary": "",
+      "highlights": [
+        "Presentaciónes técnicas a los gerentes de IT de las empresas mas importantes de culiacán",
+        "Instalación de soluciones en Demo y Producción de Vmware VSphere, Symantec Endpoint, Citrix Server, entre otros",
+        "Resolución de problemas técnicos a los clientes"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Big Nerd Ranch",
+      "area": "Computer Science",
+      "studyType": "Desarrollo de aplicaciones IOS con swift 3",
+      "startDate": "2015-10-06",
+      "endDate": "2015-10-14"
+    },
+    {
+      "institution": "University of Manchester, Inglaterra",
+      "area": "Combinada",
+      "studyType": "Research School",
+      "startDate": "2015-05-01",
+      "endDate": "2015-06-19"
+    },
+    {
+      "institution": "Instituto Tecnologico de Culiacan",
+      "area": "Ciencias de la Computación",
+      "studyType": "Maestría",
+      "startDate": "2013-08-01",
+      "endDate": "2015-12-15",
+      "GPA": "95/100"
+    },
+    {
+      "institution": "Instituto Tecnologico de Culiacan",
+      "area": "Ingenieria en sistemas Computacionales",
+      "studyType": "Ingeniería",
+      "startDate": "2007-08-01",
+      "endDate": "2011-12-15",
+      "GPA": "91/100"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Un tutor inteligente, afectivo y configurable",
+      "publisher": "IPN",
+      "releaseDate": "2014",
+      "website": "http://www.rcs.cic.ipn.mx/2014_87/",
+      "summary": "El diseño e implementación de un Sistema Tutor Inteligente (STI) capaz de ser configurado por diferentes expertos"
+    },
+    {
+      "name": "Un Ambiente inteligente y afectivo de aprendizaje para compiladores",
+      "publisher": "IPN",
+      "releaseDate": "2015",
+      "website": "http://www.rcs.cic.ipn.mx/2015_92/",
+      "summary": "El diseño e implementación de un Ambiente Inteligente de Aprendizaje (AIA) capaz de reconocer las capacidades técnicas de un estudiante y sus emociones, mientras le asesora en compiladores."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Desarrollo Web",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "JQuery",
+        "Reactjs",
+        "Bootstrap",
+        "Sencha Touch",
+        "Nodejs",
+        "ES6",
+        "WebPack"
+      ]
+    },
+    {
+      "name": "Desarrollador Java",
+      "level": "Master",
+      "keywords": [
+        "Java 8",
+        "Jersey",
+        "Apache Tomcat",
+        "Spring"
+      ]
+    },
+    {
+      "name": "Desarrollador Android",
+      "level": "Expert",
+      "keywords": [
+        "Android",
+        "Phonegap",
+        "MVP Architecture",
+        "Android Studio",
+        "Retrofit",
+        "GreenDao",
+        "EventBus",
+        "Dagger",
+        "React Native"
+      ]
+    },
+    {
+      "name": "Desarrollador IOS",
+      "level": "Beginner",
+      "keywords": [
+        "IOS",
+        "Swift",
+        "Big Nerd Ranch Alumni",
+        "React Native"
+      ]
+    },
+    {
+      "name": "Desarrollador PHP",
+      "level": "Expert",
+      "keywords": [
+        "PHP",
+        "Laravel",
+        "Lumen",
+        "Phalcon",
+        "CodeIgniter"
+      ]
+    },
+    {
+      "name": "Desarrollador C#",
+      "level": "Intermediate",
+      "keywords": [
+        "C#",
+        "NET"
+      ]
+    },
+    {
+      "name": "Desarrollador C++",
+      "level": "Intermediate",
+      "keywords": [
+        "C++",
+        "NET"
+      ]
+    },
+    {
+      "name": "Desarrollador Python",
+      "level": "Beginner",
+      "keywords": [
+        "Python",
+        "DJango"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "inglés",
+      "fluency": "Excelente"
+    },
+    {
+      "language": "Francés",
+      "fluency": "Básico"
+    },
+    {
+      "language": "Japonés",
+      "fluency": "Básico"
+    }
+  ]
+}
