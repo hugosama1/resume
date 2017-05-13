@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "HUGO ENRIQUE GOMEZ PEREZ",
-    "label": "Software Architect",
+    "label": "Full Stack Developer",
     "picture": "resume-photo.jpg",
     "email": "hugosama1@gmail.com",
-    "phone": "(667) 194-82-17",
+    "phone": "+52 (667) 194-82-17",
     "website": "http://hugosama.com",
-    "summary": "MCS on artificial intelligence applied to education And Computer Science Engineer. Experienced in full-stack development for more than 6 years, building solutions for the government, national and international companies. He has earned a lot of knowledge by making architectural decisions on components that affected more than 100k users and by selecting the right coding styles, frameworks and development process for the whole programming department (over 400 developers).",
+    "summary": "Master in Computer Science And Computer Science Engineer. Experienced in full-stack development for more than 6 years, building solutions for the government, national and international companies. He has earned a lot of knowledge by creating a diversity of applications from the persistance on the database to the presentation on the web and mobile. Currently in charge of selecting the Java coding styles, frameworks and development process for the whole programming department (over 400 developers).",
     "location": {
       "address": "2785 Tarahumaras ST",
       "postalCode": "80160",
@@ -33,19 +33,19 @@
       "position": "Software Architect",
       "website": "http://www.coppel.com",
       "startDate": "2014-02-01",
-      "summary": "I am in charge of setting the programming standards in the Java language, Android platform and Security guidelines in the development process. My responsibilities include selecting the right technical tools for developers, best code organization, style, frameworks and libraries. I am also in charge of defining the selection, classification and promotion of the programmers in the entire company (over 400 developers)",
+      "summary": "I am in charge of setting the programming standards in the Java language, Android platform and Security guidelines in the development process. My responsibilities include selecting the right technical tools for developers, best code organization, style, frameworks and libraries. I also develop very specific components that affect the whole company's ecosystem",
       "highlights": [
         "Created an Authorization architecture that removed the need of recompiling components on permission changes, reducing the number of incident reports by 30%",
-        "Introduced TDD and database mocking in C#, reducing a system configuration time from 3 days to 5 minutes",
-        "Developed a C++ Database Connection API based on OTL template framework, this completely removed the maintainability changes and errors when a table field changed, as the types where dynamically generated",
-        "Created a component to replace Java Applets that allowed the Web to use Biometric Sensor Autentication, this helped 500+ systems to get out of the compatibility problem in browsers and simplified the process",
-        "Created a Netbeans project template that included the jersey framework and the necessary packages to rapidly start making a micro-service in a standard way, this allowed programmers from different teams to work on the same way, making communication, straightforward",
+        "Introduced TDD and database mocking, reducing a system configuration time from 3 days to 5 minutes",
+        "Developed a Java Agent with Remote Method Invocation ( Java RMI ) and a central API for printing and authenticating from the Web, this significatly simplified the printing of tickets and price tags, as the formats where given in xml.",
+        "Created a local webserver component to replace Java Applets that allowed the Web to use Biometric Sensor Autentication, this helped 500+ systems to get out of the compatibility problem in browsers and simplified the process",
+        "Created a Netbeans project template that included the jersey framework and structure packages that divided the classes in responsabilities like : entities, controllers, models, connections to rapidly start making services in a standard way. This allowed programmers from different teams to work on the same way, making communication, straightforward",
         "Attended JavaOne2016 Conference in San Francisco, bringing state of the art knowledge to the company",
         "Introduced the Android standards to the company and established libraries like GreenDAO, EventBus, ButterKnife as the solid foundation for every project, this decreased development time and bugs",
         "Settled the Java and Android Coding Styles, making the code reviews easier as we implemented SonarQube to automatically check coding standards",
-        "Taught the Java and Android courses in the company, influencing 100+ employees into better coding practices",
-        "Created a python component that allowed Linux OS to use biometric authentication on web pages, solving a 20 year old problem in the company",
-        "Design and implementation of a Core API to evaluate the skills of programmers and architects in order to better classify personal"
+        "Taught the Java and Android courses in the company, influencing 150+ employees into better coding practices",
+        "Implemented HikariCP for database connection pooling to improve the performance on concurrent applications",
+        "Currently working on a Spring Boot Standard with Spring MVC, to allow continuous integration"
       ]
     },
     {
@@ -150,12 +150,17 @@
         "Java 8",
         "Jersey",
         "Apache Tomcat",
-        "Spring"
+        "Spring",
+        "JPA",
+        "Java EE",
+        "Spring Boot",
+        "JUnit",
+        "Mockito"
       ]
     },
     {
       "name": "Android developer",
-      "level": "Expert",
+      "level": "Intermediate",
       "keywords": [
         "Android",
         "Phonegap",
@@ -169,46 +174,13 @@
       ]
     },
     {
-      "name": "IOS developer",
-      "level": "Beginner",
+      "name": "Database developer",
+      "level": "Master",
       "keywords": [
-        "IOS",
-        "Swift",
-        "Big Nerd Ranch Alumni",
-        "React Native"
-      ]
-    },
-    {
-      "name": "PHP developer",
-      "level": "Expert",
-      "keywords": [
-        "PHP",
-        "Laravel",
-        "Lumen",
-        "Phalcon"
-      ]
-    },
-    {
-      "name": "C# developer",
-      "level": "Intermediate",
-      "keywords": [
-        "C#",
-        "NET"
-      ]
-    },
-    {
-      "name": "C++ developer",
-      "level": "Intermediate",
-      "keywords": [
-        "C++",
-        "NET"
-      ]
-    },
-    {
-      "name": "Python developer",
-      "level": "Beginner",
-      "keywords": [
-        "Python"
+        "SQL SERVER",
+        "MYSQL",
+        "PostgreSQL",
+        "Mongodb"
       ]
     }
   ],
@@ -220,14 +192,6 @@
     {
       "language": "English",
       "fluency": "Excellent"
-    },
-    {
-      "language": "French",
-      "fluency": "Basic"
-    },
-    {
-      "language": "Japanesse",
-      "fluency": "Basic"
     }
   ]
 }
