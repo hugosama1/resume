@@ -182,6 +182,14 @@
         "PostgreSQL",
         "Mongodb"
       ]
+    },
+    {
+      "name": "Version Control",
+      "level": "Master",
+      "keywords": [
+        "SVN", 
+        "GIT"
+      ]
     }
   ],
   "languages": [
